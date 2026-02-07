@@ -1,0 +1,7 @@
+[
+    {
+        "command": "cc -c -o build/main -Wall -Wextra -ggdb -std=c23 src/main.c",
+        "directory": "/home/quick/Projects/C/Ctyle",
+        "file": "/home/quick/Projects/C/Ctyle/src/main.c"
+    }
+]
